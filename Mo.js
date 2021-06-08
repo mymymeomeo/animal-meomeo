@@ -6,6 +6,7 @@ class s extends Component {
     super(props);
     this.state = {
     };
+    hhhhs
   }
 
   render() {
@@ -13,7 +14,7 @@ class s extends Component {
       <View>
         <Text> Mo </Text>
       </View>
-    );
+    );s
   }
 }
 
